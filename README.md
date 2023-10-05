@@ -1,6 +1,6 @@
 # Personal Portfolio ⚡️ 
 
-> [https://gau232.github.io/](https://ravi-portfolio-two.vercel.app/)
+> https://ravi-portfolio-two.vercel.app/
 
 ## Sections 📚
 ✔️ About me\
