@@ -2,6 +2,9 @@
   display: flex;
   flex-wrap: wrap;
 }
+.flex-gap-extra {
+  gap: 25px;
+}
 
 .profile-pic {
   position: relative;
